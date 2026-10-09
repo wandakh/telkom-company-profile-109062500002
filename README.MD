@@ -1,8 +1,6 @@
 # Telkom University Company Profile - Praktikum 
 
 
-Project simulasi HTML, CSS, PHP native, MySQL/MariaDB, dan Git. D 
-
 Perubahan ini dibuat dari simulasi Laptop B.
 
 ## Riwayat Praktikum Git
@@ -36,7 +34,9 @@ Langkah penyelesaian yang saya lakukan:
 * 27af1a8 feat: hubungkan database dan tampilkan program studi
 * 1043d2e feat: tambahkan layout dasar dan stylesheet
 * ff5d9b4 chore: inisialisasi project dan dokumentasi awal
-=======
- 
+
 Project simulasi HTML, CSS, PHP native, MySQL/MariaDB, dan Git. D
->>>>>>> parent of 8cc4933 (docs: perbarui README dari Laptop A)
+
+
+Project simulasi HTML, CSS, PHP native, MySQL/MariaDB, dan Git. D
+
